@@ -5,7 +5,7 @@ orbs:
 jobs:
   build:
     docker:
-      - image: 'circleci/python:latest'
+      - image: ''
 
     steps:
       - checkout
